@@ -18,7 +18,9 @@ A repository to showcase my progress in DataTalksClub MLOps Zoomcamp
 ### Week 1
 
 🚀 Explored MLOps: Learned about the process of deploying, managing, and monitoring ML models. Starting from its design, training, and operation. Understanding why MLOps is an important role for a data-driven enterprise.
+
 💡 Discovered Parquet Format: Explored the benefits of using Parquet, a columnar storage format for structured data. Efficient compression, optimized queries, and schema evolution for big data analytics.
+
 💡 AWS EC2: Successfully set up an AWS EC2 VM, leveraging the power of cloud computing for scalable and flexible infrastructure.
 
 
