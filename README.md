@@ -1,2 +1,4 @@
 # mlops-showcase
-all my outputs from DataTalksClub MLOps Zoomcamp
+weekly outputs from DataTalksClub MLOps Zoomcamp
+
+pew pew pew pew pew pew pew
